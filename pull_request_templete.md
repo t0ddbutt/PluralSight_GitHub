@@ -14,4 +14,3 @@ Please delete options that are not relevant
 - [ ] New feature
 - [ ] Breaking change
 - [ ] Documenation needs to be updated
-- [ ]   
